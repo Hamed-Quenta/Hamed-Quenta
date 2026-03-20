@@ -30,14 +30,8 @@ ROS2 (Humble) • Gazebo • RViz • Webots • SLAM • Navigation • Odometr
 ### 🔌 Embedded Systems
 ESP32 • STM32 • Arduino • TIVA • micro-ROS • I2C • Serial Communication
 
-### ⚙️ Control & Systems
-MATLAB • Simulink • Sensor Fusion • Signal Processing
-
-### 👁️ Computer Vision & AI
-OpenCV • PyTorch • Deep Learning • Image Processing
-
 ### 🧰 Tools
-Linux • Git • GitHub • VS Code • SolidWorks (CSWA) • LTSpice • Proteus • FluidSIM
+Linux • Git • GitHub • VS Code • SolidWorks (CSWA) • LTSpice • Notion • Figma
 
 ---
 
