@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hamed Quenta
+# Hamed Quenta
 
 🎯 Mechatronics Engineer specialized in **Robotics & Embedded Systems**  
 📍 Based in Germany  
